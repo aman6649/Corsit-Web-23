@@ -1,15 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.eaa457c3.css",
-    "main.js": "/static/js/main.0dbc30a5.js",
-    "static/media/img8.png": "/static/media/img8.7f99dba3e7ff0e02eb79.png",
-    "static/media/img6.png": "/static/media/img6.ffcc7c411e502bb70296.png",
-    "static/media/img5.png": "/static/media/img5.2adfceea88c28a6ca4c6.png",
+    "main.js": "/static/js/main.471f0526.js",
     "static/media/soccer.jpeg": "/static/media/soccer.72f460c6f149507810cd.jpeg",
-    "static/media/img3.jpg": "/static/media/img3.2a5f00fb789eb4a798ac.jpg",
     "static/media/anushant.jpeg": "/static/media/anushant.4097a281b84dfc2b338a.jpeg",
-    "static/media/img4.JPG": "/static/media/img4.dc6aac7a3abb53d2b092.JPG",
-    "static/media/img7.png": "/static/media/img7.c85f12228638364b0767.png",
     "static/media/robowar.jpeg": "/static/media/robowar.2a3e0a49b45bceee0154.jpeg",
     "static/media/pradhan.jpg": "/static/media/pradhan.6335bd0d44401b9cf34b.jpg",
     "static/media/Ansa.jpg": "/static/media/Ansa.d3580cd3ece681877a77.jpg",
@@ -26,7 +20,6 @@
     "static/media/Suraj Aribenchi.jpg": "/static/media/Suraj Aribenchi.1fbdd6aa3222a60e83ba.jpg",
     "static/media/meghraj.jpeg": "/static/media/meghraj.dff85ec0ee5c29ea36d7.jpeg",
     "static/media/SharanyaBhat.jpg": "/static/media/SharanyaBhat.6bf78ba36c87c9166329.jpg",
-    "static/media/img1.jpg": "/static/media/img1.395eef31f31ab39108ec.jpg",
     "static/media/YashaswiniK_1.jpg": "/static/media/YashaswiniK_1.5b0779d9b313595a896c.jpg",
     "static/media/shubham.png": "/static/media/shubham.884f49e3e290c876a84b.png",
     "static/media/team1b.jpg": "/static/media/team1b.6f59ed7eba4682c35018.jpg",
@@ -41,7 +34,6 @@
     "static/media/obstacle.png": "/static/media/obstacle.6fca19e589f0bc8c7030.png",
     "static/media/blue.jpg": "/static/media/blue.674d73f457f43ac0cb13.jpg",
     "static/media/amanaa.jpeg": "/static/media/amanaa.396ea44a3d67d452dd6a.jpeg",
-    "static/media/img2.jpg": "/static/media/img2.32268992deac0bfd2bf1.jpg",
     "static/media/Shivu P.jpg": "/static/media/Shivu P.b0abca698daef879b462.jpg",
     "static/media/keshav.jpg": "/static/media/keshav.0ba9773ad309425ec1e8.jpg",
     "static/media/JATIN SHARMA (1).jpg": "/static/media/JATIN SHARMA (1).ead403f69b3e88ebfc20.jpg",
@@ -64,10 +56,10 @@
     "static/media/prince.jpeg": "/static/media/prince.b39cc01e30648b96753c.jpeg",
     "index.html": "/index.html",
     "main.eaa457c3.css.map": "/static/css/main.eaa457c3.css.map",
-    "main.0dbc30a5.js.map": "/static/js/main.0dbc30a5.js.map"
+    "main.471f0526.js.map": "/static/js/main.471f0526.js.map"
   },
   "entrypoints": [
     "static/css/main.eaa457c3.css",
-    "static/js/main.0dbc30a5.js"
+    "static/js/main.471f0526.js"
   ]
 }
