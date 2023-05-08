@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.eaa457c3.css",
-    "main.js": "/static/js/main.608dafa7.js",
+    "main.css": "/static/css/main.37ef164b.css",
+    "main.js": "/static/js/main.bea23d30.js",
     "static/media/soccer.jpeg": "/static/media/soccer.72f460c6f149507810cd.jpeg",
     "static/media/anushant.jpg": "/static/media/anushant.a807a66eb3b93deec0e3.jpg",
     "static/media/robowar.jpeg": "/static/media/robowar.2a3e0a49b45bceee0154.jpeg",
+    "static/media/varsha.jpg": "/static/media/varsha.f0774e1441643434464c.jpg",
     "static/media/pradhan.jpg": "/static/media/pradhan.6335bd0d44401b9cf34b.jpg",
     "static/media/Ansa.jpg": "/static/media/Ansa.d3580cd3ece681877a77.jpg",
     "static/media/PXL_20220312_103354403.PORTRAIT.jpg": "/static/media/PXL_20220312_103354403.PORTRAIT.bfe929acc5e4ffe8e6b5.jpg",
@@ -55,11 +56,11 @@
     "static/media/manojna.jpeg": "/static/media/manojna.61dc4bdbbc2a299e090c.jpeg",
     "static/media/prince.jpeg": "/static/media/prince.b39cc01e30648b96753c.jpeg",
     "index.html": "/index.html",
-    "main.eaa457c3.css.map": "/static/css/main.eaa457c3.css.map",
-    "main.608dafa7.js.map": "/static/js/main.608dafa7.js.map"
+    "main.37ef164b.css.map": "/static/css/main.37ef164b.css.map",
+    "main.bea23d30.js.map": "/static/js/main.bea23d30.js.map"
   },
   "entrypoints": [
-    "static/css/main.eaa457c3.css",
-    "static/js/main.608dafa7.js"
+    "static/css/main.37ef164b.css",
+    "static/js/main.bea23d30.js"
   ]
 }
