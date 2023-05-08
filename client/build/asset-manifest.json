@@ -1,9 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.37ef164b.css",
-    "main.js": "/static/js/main.7a3ea366.js",
-    "static/media/soccer.jpeg": "/static/media/soccer.72f460c6f149507810cd.jpeg",
-    "static/media/robowar.jpeg": "/static/media/robowar.2a3e0a49b45bceee0154.jpeg",
+    "main.js": "/static/js/main.f7723686.js",
     "static/media/varsha.jpg": "/static/media/varsha.f0774e1441643434464c.jpg",
     "static/media/pradhan.jpg": "/static/media/pradhan.6335bd0d44401b9cf34b.jpg",
     "static/media/Ansa.jpg": "/static/media/Ansa.d3580cd3ece681877a77.jpg",
@@ -13,9 +11,7 @@
     "static/media/shashwat.jpg": "/static/media/shashwat.2deb6ae1a6435fbc97ce.jpg",
     "static/media/corsitlogo.png": "/static/media/corsitlogo.51e93a961e64bed57e8f.png",
     "static/media/Aadarsh Shriniwas.jpg": "/static/media/Aadarsh Shriniwas.c3d2094f8ba03f5a26b8.jpg",
-    "static/media/gesture.png": "/static/media/gesture.6e8d52310915caaeeeb4.png",
     "static/media/Tanmay.jpg": "/static/media/Tanmay.a5142aa2214d761d8c5e.jpg",
-    "static/media/Home-automation.jpg": "/static/media/Home-automation.639ceaa2c8f0de0a2e94.jpg",
     "static/media/Gaurav Kumar.jpg": "/static/media/Gaurav Kumar.c8e12f58c4fa15e94059.jpg",
     "static/media/Suraj Aribenchi.jpg": "/static/media/Suraj Aribenchi.1fbdd6aa3222a60e83ba.jpg",
     "static/media/meghraj.jpeg": "/static/media/meghraj.dff85ec0ee5c29ea36d7.jpeg",
@@ -23,16 +19,12 @@
     "static/media/YashaswiniK_1.jpg": "/static/media/YashaswiniK_1.5b0779d9b313595a896c.jpg",
     "static/media/shubham.png": "/static/media/shubham.884f49e3e290c876a84b.png",
     "static/media/team1b.jpg": "/static/media/team1b.6f59ed7eba4682c35018.jpg",
-    "static/media/augmented.jpg": "/static/media/augmented.f929f465e0e45f2bd329.jpg",
     "static/media/vivekMoha.jpg": "/static/media/vivekMoha.136f9d31b69c4a1720bd.jpg",
     "static/media/Rajeev Ranjan.jpg": "/static/media/Rajeev Ranjan.70958807cc4aa0a6bdb6.jpg",
-    "static/media/obs.jpg": "/static/media/obs.e56466f45c85f992777a.jpg",
     "static/media/wall-e.jpg": "/static/media/wall-e.217793814f65a0af618e.jpg",
     "static/media/kundan - K k.jpeg": "/static/media/kundan - K k.881504752a86be7f29e3.jpeg",
     "static/media/RohanJadhav.jpg": "/static/media/RohanJadhav.5da67cf6746925bde7f6.jpg",
     "static/media/Ashutosh Malviya.jpg": "/static/media/Ashutosh Malviya.711fa758e47f593b6a9e.jpg",
-    "static/media/obstacle.png": "/static/media/obstacle.6fca19e589f0bc8c7030.png",
-    "static/media/blue.jpg": "/static/media/blue.674d73f457f43ac0cb13.jpg",
     "static/media/amanaa.jpeg": "/static/media/amanaa.396ea44a3d67d452dd6a.jpeg",
     "static/media/Shivu P.jpg": "/static/media/Shivu P.b0abca698daef879b462.jpg",
     "static/media/keshav.jpg": "/static/media/keshav.0ba9773ad309425ec1e8.jpg",
@@ -40,11 +32,8 @@
     "static/media/team1c.jpg": "/static/media/team1c.9efbaf07daf0f1cffa20.jpg",
     "static/media/Ananya.jpg": "/static/media/Ananya.408b967416c823c406d4.jpg",
     "static/media/_Ketaki.jpg": "/static/media/_Ketaki.db735d6f87ef665bd5ea.jpg",
-    "static/media/RFID.png": "/static/media/RFID.82a3ad59d96151432baa.png",
-    "static/media/self.webp": "/static/media/self.9fd04b248facccfc82e4.webp",
     "static/media/nalini.jpeg": "/static/media/nalini.56aaf07a374c85764795.jpeg",
     "static/media/UJJAWAL(jpeg).jpg": "/static/media/UJJAWAL(jpeg).63846b206a141a1828ae.jpg",
-    "static/media/LFR.jpg": "/static/media/LFR.d42a1c23b7c4a89ebabf.jpg",
     "static/media/vivk.jpeg": "/static/media/vivk.26a77b68bf558d286912.jpeg",
     "static/media/nitish.jpeg": "/static/media/nitish.97376c88d762e0b10e44.jpeg",
     "static/media/team1a.jpg": "/static/media/team1a.277d8b4c32f607c8c9b2.jpg",
@@ -56,10 +45,10 @@
     "static/media/prince.jpeg": "/static/media/prince.b39cc01e30648b96753c.jpeg",
     "index.html": "/index.html",
     "main.37ef164b.css.map": "/static/css/main.37ef164b.css.map",
-    "main.7a3ea366.js.map": "/static/js/main.7a3ea366.js.map"
+    "main.f7723686.js.map": "/static/js/main.f7723686.js.map"
   },
   "entrypoints": [
     "static/css/main.37ef164b.css",
-    "static/js/main.7a3ea366.js"
+    "static/js/main.f7723686.js"
   ]
 }
